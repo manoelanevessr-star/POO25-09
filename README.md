@@ -26,11 +26,6 @@ Certifique-se de ter o Node.js instalado.
 - TypeScript
 - ts-node
 
-## Autor
-
-[![angelogluz](https://github.com/angelogluz.png?size=100)](https://github.com/angelogluz)
-
-[angelogluz](https://github.com/angelogluz)
 
 ---
 
